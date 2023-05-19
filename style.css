@@ -1,0 +1,74 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(8,74,239,1) 0%, rgba(0,212,255,1) 100%);
+
+}
+/* div{
+    border-radius: 25px;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+} */
+.h1{
+    text-align: center;
+    font-family: 'Bruno Ace SC', cursive;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(8,74,239,1) 0%, rgba(0,212,255,1) 100%);
+
+}
+.h2{
+    font-family: 'Bruno Ace SC', cursive;
+}
+.desk-setup{
+    align-self: center;
+    height: 400px;
+    width: 400px;
+
+}
+.homepage{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(8,74,239,1) 0%, rgba(0,212,255,1) 100%);
+    border-radius: 25px;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+    
+
+}
+/*cards*/
+.table{
+    border: 10px;
+    padding: 100px;
+}
+.card{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(8,74,239,1) 0%, rgba(0,212,255,1) 100%);
+    border-radius: 25px;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+
+}
+.card-text{
+    font-family: 'Bruno Ace SC', cursive; 
+    text-align: center;
+}
+.card-title{
+    font-family: 'Bruno Ace SC', cursive; 
+    text-align: center;
+}
+
+.c{
+    background: rgb(2,0,36);
+     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(8,74,239,0.7875525210084033) 0%);
+    font-family: 'Bruno Ace SC', cursive;
+}
+  
+  /* @media screen and (min-width: 600px) {
+    div {
+      font-size: 50px;
+    }
+  }
+   */
+  @media screen and (max-width: 600px) {
+    div {
+      font-size: 30px;
+    }
+  }
